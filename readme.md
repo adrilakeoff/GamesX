@@ -1,1 +1,1 @@
-això és un repositori de proves
+això és un repositori per mostrar els meus jocs de scratch
